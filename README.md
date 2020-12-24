@@ -1,2 +1,0 @@
-# wordpress-nhomA
-wordpress-nhomA
