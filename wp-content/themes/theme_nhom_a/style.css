@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: yellow;
+}
+a:link, a:visited{
+    color: #4285f4;
+}
+div.container{
+    max-width: 960px;
+    margin: 0 auto;
+}
+article.post{
+    border-bottom: 4px dashed #ecf0f1;
+}
+article.post:last-of-type{
+    border-bottom: none;
+}
+.stile-header{
+    border-bottom: 3px solid #ecf0f1;
+}
+.stile-header h1{
+    color: rgb(112, 112, 105);
+}
+.site-footer{
+    margin: 30px 0px;
+}
+.site-footer h1{
+    color: rgb(230, 187, 159);
+}
